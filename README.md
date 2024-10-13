@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **dinodimanjith404@gmail.com**
 
-- ⚡ Fun fact **all my friends called me as Dino**
+- ⚡ Fun fact **all my friends calle me as Dino**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
