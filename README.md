@@ -3,12 +3,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dinod001&label=Profile%20views&color=0e75b6&style=flat" alt="dinod001" /> </p>
 
-- 🌱 I’m currently learning **Machine learning ,Java ,Python**
-
-- 📫 How to reach me **dinodimanjith404@gmail.com**
-
-- ⚡ Fun fact **all my friends calle me as Dino**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/dinod imanjith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dinod imanjith" height="30" width="40" /></a>
