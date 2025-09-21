@@ -9,7 +9,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@master
+      - name: Generate Snake
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: dinod001
           outputs: dist/github-contribution-grid-snake.svg
