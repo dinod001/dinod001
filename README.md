@@ -5,7 +5,7 @@
 
 <!-- Typing Animation Title -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=🚀+Passionate+Software+Engineer;🤖+AI+Developer+from+Sri+Lanka+🌍;💡+Always+Building+Cool+Projects;🌟+Turning+Ideas+into+Reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=🤖+ML+Engineer+%26+MLOps+Specialist;🚀+Building+AI-Powered+Solutions;📊+From+Software+Engineering+to+ML+Pipelines;🌟+Turning+Data+into+Intelligence" alt="Typing SVG" />
 </div>
 
 <!-- Profile Views & Social Stats -->
@@ -19,50 +19,127 @@
 
 <!-- About Me Section with Cool Styling -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-b9e5b24953c6.gif" width="500">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="500">
   
   ### 🌟 About Me
   ```yaml
   name: "Dinod Imanjith"
   location: "Sri Lanka 🇱🇰"
-  role: "Software Engineer & AI Developer"
-  passion: "Building innovative solutions with code"
-  learning: "Always exploring new technologies"
-  motto: "Code, Create, Innovate, Repeat! 🚀"
+  current_role: "ML Engineer & MLOps Specialist"
+  background: "Software Engineering Student"
+  transition: "From SE Foundation → AI/ML & MLOps Excellence"
+  passion: "Building scalable ML systems and production-ready pipelines"
+  current_focus: "Deep Learning, MLOps, and Real-time Data Processing"
+  learning: "Advanced Neural Networks & Distributed ML Systems"
+  motto: "Train, Deploy, Monitor, Optimize! 🚀"
   ```
 </div>
 
 ---
 
-<!-- Connect Section with Enhanced Icons -->
-<h2 align="center">🌐 Let's Connect & Collaborate!</h2>
+<!-- Professional Bio -->
+<h2 align="center">💼 Professional Journey</h2>
 <div align="center">
-  <a href="https://fb.com/dinod imanjith" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" alt="Facebook"/>
-  </a>
-  <a href="https://www.youtube.com/@CodeSageLK" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000" alt="YouTube"/>
-  </a>
+  <p style="font-size: 16px; max-width: 800px; margin: auto;">
+    🎓 <b>Software Engineering Student</b> transitioning into the cutting-edge world of <b>AI/ML and MLOps</b>. 
+    With a solid foundation in software development, I'm now channeling my passion into building 
+    <b>intelligent, production-ready machine learning systems</b> that solve real-world problems.
+    <br/><br/>
+    🔧 From writing clean code to orchestrating <b>end-to-end ML pipelines</b>, I combine software engineering 
+    best practices with modern ML workflows to create <b>scalable, maintainable AI solutions</b>.
+  </p>
 </div>
 
 ---
 
 <!-- Tech Stack with Animated Icons -->
-<h2 align="center">💻 Tech Stack & Tools</h2>
+<h2 align="center">💻 Tech Stack & Expertise</h2>
+
 <div align="center">
   
-  **Programming Languages**
-  <br/>
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,js&theme=dark" />
+  ### 🤖 AI/ML & Data Engineering
+  <p>
+    <img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark" />
+    <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=1a1a1a" alt="Scikit-learn"/>
+    <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white&labelColor=1a1a1a" alt="MLflow"/>
+    <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white&labelColor=1a1a1a" alt="Kafka"/>
+    <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white&labelColor=1a1a1a" alt="Airflow"/>
+    <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white&labelColor=1a1a1a" alt="PySpark"/>
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=1a1a1a" alt="Pandas"/>
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=1a1a1a" alt="NumPy"/>
+  </p>
   
-  **Web Technologies**
-  <br/>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap&theme=dark" />
+  ### 🛠️ DevOps & MLOps Tools
+  <p>
+    <img src="https://skillicons.dev/icons?i=docker,git&theme=dark" />
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=1a1a1a" alt="Kubernetes"/>
+    <img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=1a1a1a" alt="CI/CD"/>
+    <img src="https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logo=dvc&logoColor=white&labelColor=1a1a1a" alt="DVC"/>
+  </p>
   
-  **Databases & Tools**
-  <br/>
-  <img src="https://skillicons.dev/icons?i=mysql,git,photoshop&theme=dark" />
-  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="MSSQL"/>
+  ### 💻 Software Engineering Foundation
+  <p>
+    <img src="https://skillicons.dev/icons?i=cpp,java,js,html,css,bootstrap,mysql&theme=dark" />
+    <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="MSSQL" height="48"/>
+  </p>
+  
+</div>
+
+---
+
+<!-- Featured ML Projects -->
+<h2 align="center">🚀 Featured ML Projects</h2>
+
+<div align="center">
+
+### 🎯 Customer Churn Prediction with Production MLOps Pipeline
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
+
+<div align="left" style="max-width: 800px; margin: auto;">
+
+**🔍 Project Overview:**  
+End-to-end machine learning project predicting customer churn with a **production-ready MLOps pipeline**.
+
+**🛠️ Tech Stack & MLOps Tools:**
+- **ML Framework:** Scikit-learn, XGBoost, Deep Learning models
+- **Pipeline Orchestration:** Apache Airflow - Automated workflow scheduling and monitoring
+- **Experiment Tracking:** MLflow - Model versioning, parameter tracking, and artifact management
+- **Data Processing:** PySpark - Distributed data preprocessing for large-scale datasets
+- **Message Streaming:** Apache Kafka - Real-time data ingestion and processing
+- **Containerization:** Docker - Reproducible environments and deployment
+- **Model Monitoring:** Custom monitoring dashboard for performance tracking
+
+**✨ Key Features:**
+- ✅ Automated feature engineering and selection pipeline
+- ✅ Hyperparameter optimization with cross-validation
+- ✅ Model versioning and experiment tracking with MLflow
+- ✅ Containerized deployment with Docker
+- ✅ Scheduled retraining workflows with Airflow
+- ✅ Real-time prediction serving
+- ✅ Performance monitoring and alerting
+
+**📊 Impact:**  
+Achieved **XX% accuracy** with production-grade infrastructure enabling continuous model improvement and deployment.
+
+</div>
+
+---
+
+### 📚 MLOps Zoomcamp - Certified
+
+<div align="left" style="max-width: 800px; margin: auto;">
+
+**🎓 Comprehensive MLOps Training:**  
+Completed intensive MLOps bootcamp covering:
+- ML experiment tracking and model registry
+- Workflow orchestration and ML pipelines
+- Model deployment strategies (batch, real-time, streaming)
+- Model monitoring and observability
+- Best practices for ML in production
+
+</div>
+
 </div>
 
 ---
@@ -89,6 +166,22 @@
 
 ---
 
+<!-- Connect Section with Enhanced Icons -->
+<h2 align="center">🌐 Let's Connect & Collaborate!</h2>
+<div align="center">
+  <a href="https://fb.com/dinod imanjith" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" alt="Facebook"/>
+  </a>
+  <a href="https://www.youtube.com/@CodeSageLK" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000" alt="YouTube"/>
+  </a>
+  <a href="https://linkedin.com/in/dinod-imanjith" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
+  </a>
+</div>
+
+---
+
 <!-- Fun Zone with Better Animation -->
 <h2 align="center">✨ Fun Zone</h2>
 <div align="center">
@@ -96,7 +189,7 @@
   
   <br/><br/>
   
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it.&author=Peter%20Drucker" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=In%20the%20age%20of%20AI,%20the%20question%20is%20not%20whether%20machines%20can%20think,%20but%20whether%20humans%20can%20build%20them%20right.&author=Anonymous" />
 </div>
 
 ---
@@ -114,7 +207,8 @@
 <!-- Support Section -->
 <div align="center">
   <h3>💝 Support My Work</h3>
-  <p>If you find my projects helpful, consider giving them a ⭐!</p>
-  <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge&labelColor=1a1a1a"/>
+  <p>If you find my ML projects and contributions helpful, consider giving them a ⭐!</p>
+  <img src="https://img.shields.io/badge/Made%20with-❤️%20%26%20AI-red?style=for-the-badge&labelColor=1a1a1a"/>
   <img src="https://img.shields.io/badge/From-Sri%20Lanka%20🇱🇰-green?style=for-the-badge&labelColor=1a1a1a"/>
+  <img src="https://img.shields.io/badge/Always-Learning%20%26%20Building-blue?style=for-the-badge&labelColor=1a1a1a"/>
 </div>
