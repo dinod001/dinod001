@@ -72,9 +72,7 @@
   ### 🛠️ DevOps & MLOps Tools
   <p>
     <img src="https://skillicons.dev/icons?i=docker,git&theme=dark" />
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=1a1a1a" alt="Kubernetes"/>
     <img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=1a1a1a" alt="CI/CD"/>
-    <img src="https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logo=dvc&logoColor=white&labelColor=1a1a1a" alt="DVC"/>
   </p>
   
   ### 💻 Software Engineering Foundation
@@ -120,7 +118,7 @@ End-to-end machine learning project predicting customer churn with a **productio
 - ✅ Performance monitoring and alerting
 
 **📊 Impact:**  
-Achieved **XX% accuracy** with production-grade infrastructure enabling continuous model improvement and deployment.
+Achieved **70+% accuracy** with production-grade infrastructure enabling continuous model improvement and deployment.
 
 </div>
 
