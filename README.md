@@ -5,7 +5,7 @@
 
 <!-- Typing Animation Title -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=🤖+ML+Engineer+%26+MLOps+Specialist;🚀+Building+AI-Powered+Solutions;📊+From+Software+Engineering+to+ML+Pipelines;🌟+Turning+Data+into+Intelligence" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=🤖+AI%2FML+Engineer+%40+Devlagom;🧠+Agentic+AI+%26+Multi-Agent+Systems+Builder;🚀+Production-Grade+RAG+%26+LLM+Applications;🔗+LangGraph+%7C+LangChain+%7C+MCP+Specialist;🌟+Turning+Complex+Problems+into+Intelligent+Solutions" alt="Typing SVG" />
 </div>
 
 <!-- Profile Views & Social Stats -->
@@ -17,21 +17,21 @@
 
 <br/>
 
-<!-- About Me Section with Cool Styling -->
+<!-- About Me Section -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="500">
   
   ### 🌟 About Me
   ```yaml
-  name: "Dinod Imanjith"
+  name: "Dinod Imanjith Withanawasam"
   location: "Sri Lanka 🇱🇰"
-  current_role: "ML Engineer & MLOps Specialist"
-  background: "Software Engineering Student"
-  transition: "From SE Foundation → AI/ML & MLOps Excellence"
-  passion: "Building scalable ML systems and production-ready pipelines"
-  current_focus: "Deep Learning, MLOps, and Real-time Data Processing"
-  learning: "Advanced Neural Networks & Distributed ML Systems"
-  motto: "Train, Deploy, Monitor, Optimize! 🚀"
+  current_role: "Associate AI Engineer @ Devlagom"
+  background: "Software Engineering Undergraduate (Cardiff Met University)"
+  specialization: ["Agentic AI", "Multi-Agent Systems", "RAG", "Generative AI", "MLOps"]
+  core_stack: ["LangGraph", "LangChain", "FastAPI", "AWS", "Databricks"]
+  passion: "Building production-grade, enterprise AI systems that solve real problems"
+  currently_building: "Voice AI & FMCG Financial Multi-Agent Systems"
+  motto: "Architect. Deploy. Orchestrate. Scale. 🚀"
   ```
 </div>
 
@@ -40,101 +40,183 @@
 <!-- Professional Bio -->
 <h2 align="center">💼 Professional Journey</h2>
 <div align="center">
-  <p style="font-size: 16px; max-width: 800px; margin: auto;">
-    🎓 <b>Software Engineering Student</b> transitioning into the cutting-edge world of <b>AI/ML and MLOps</b>. 
-    With a solid foundation in software development, I'm now channeling my passion into building 
-    <b>intelligent, production-ready machine learning systems</b> that solve real-world problems.
+  <p style="font-size: 16px; max-width: 860px; margin: auto;">
+    🎓 <b>Software Engineering undergraduate</b> at Cardiff Metropolitan University (via ICBT Campus, Sri Lanka), 
+    specializing in <b>AI/ML, Generative AI, and Agentic AI</b>. Currently working full-time as an 
+    <b>Associate AI Engineer at Devlagom</b>, where I lead end-to-end development of production multi-agent 
+    AI systems deployed on AWS.
     <br/><br/>
-    🔧 From writing clean code to orchestrating <b>end-to-end ML pipelines</b>, I combine software engineering 
-    best practices with modern ML workflows to create <b>scalable, maintainable AI solutions</b>.
+    🔧 I build <b>enterprise-grade RAG applications</b>, <b>multi-agent architectures</b> using LangGraph & LangChain, 
+    and <b>secure cloud-native AI pipelines</b> — combining strong software engineering fundamentals with 
+    cutting-edge AI/ML engineering practices.
+    <br/><br/>
+    🏆 <b>ZuuCrew AI Hackathon Winner (Nov 2025)</b> | 📝 <b>AI/ML Technical Writer</b> | 🎥 <b>YouTube Educator</b>
   </p>
 </div>
 
 ---
 
-<!-- Tech Stack with Animated Icons -->
+<!-- Tech Stack -->
 <h2 align="center">💻 Tech Stack & Expertise</h2>
 
 <div align="center">
-  
-  ### 🤖 AI/ML & Data Engineering
+
+  ### 🧠 Agentic AI & LLM Ecosystem
+  <p>
+    <img src="https://img.shields.io/badge/LangGraph-1C3A5E?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a1a" alt="LangGraph"/>
+    <img src="https://img.shields.io/badge/LangChain-00897B?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a1a" alt="LangChain"/>
+    <img src="https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-6C3483?style=for-the-badge&logoColor=white&labelColor=1a1a1a" alt="RAG"/>
+    <img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-FF6B35?style=for-the-badge&logoColor=white&labelColor=1a1a1a" alt="MCP"/>
+    <img src="https://img.shields.io/badge/Langfuse-0D47A1?style=for-the-badge&logoColor=white&labelColor=1a1a1a" alt="Langfuse"/>
+    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=1a1a1a" alt="Hugging Face"/>
+    <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white&labelColor=1a1a1a" alt="Databricks"/>
+  </p>
+
+  ### 🤖 AI / ML & Data Science
   <p>
     <img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark" />
     <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=1a1a1a" alt="Scikit-learn"/>
-    <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white&labelColor=1a1a1a" alt="MLflow"/>
-    <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white&labelColor=1a1a1a" alt="Kafka"/>
-    <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white&labelColor=1a1a1a" alt="Airflow"/>
-    <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white&labelColor=1a1a1a" alt="PySpark"/>
+    <img src="https://img.shields.io/badge/XGBoost-EC4D37?style=for-the-badge&logoColor=white&labelColor=1a1a1a" alt="XGBoost"/>
+    <img src="https://img.shields.io/badge/QLoRA-Fine--tuning-8E24AA?style=for-the-badge&logoColor=white&labelColor=1a1a1a" alt="QLoRA"/>
+    <img src="https://img.shields.io/badge/NLP-Natural_Language_Processing-00BCD4?style=for-the-badge&logoColor=white&labelColor=1a1a1a" alt="NLP"/>
     <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=1a1a1a" alt="Pandas"/>
     <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=1a1a1a" alt="NumPy"/>
   </p>
-  
-  ### 🛠️ DevOps & MLOps Tools
+
+  ### 🗄️ Vector Stores & Databases
   <p>
-    <img src="https://skillicons.dev/icons?i=docker,git&theme=dark" />
-    <img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=1a1a1a" alt="CI/CD"/>
+    <img src="https://img.shields.io/badge/Qdrant-DC143C?style=for-the-badge&logoColor=white&labelColor=1a1a1a" alt="Qdrant"/>
+    <img src="https://img.shields.io/badge/Pinecone-00BFA5?style=for-the-badge&logoColor=white&labelColor=1a1a1a" alt="Pinecone"/>
+    <img src="https://img.shields.io/badge/Chroma-FF7043?style=for-the-badge&logoColor=white&labelColor=1a1a1a" alt="Chroma"/>
+    <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1a1a1a" alt="pgvector"/>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=1a1a1a" alt="MongoDB"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1a1a1a" alt="PostgreSQL"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1a1a1a" alt="MySQL"/>
+    <img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=1a1a1a" alt="Firestore"/>
   </p>
-  
-  ### 💻 Software Engineering Foundation
+
+  ### 🛠️ MLOps & Cloud Infrastructure
   <p>
-    <img src="https://skillicons.dev/icons?i=cpp,java,js,html,css,bootstrap,mysql&theme=dark" />
-    <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="MSSQL" height="48"/>
+    <img src="https://skillicons.dev/icons?i=docker,aws,git&theme=dark" />
+    <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white&labelColor=1a1a1a" alt="Airflow"/>
+    <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white&labelColor=1a1a1a" alt="Kafka"/>
+    <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white&labelColor=1a1a1a" alt="PySpark"/>
+    <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white&labelColor=1a1a1a" alt="MLflow"/>
+    <img src="https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white&labelColor=1a1a1a" alt="DVC"/>
   </p>
-  
+
+  ### 💻 Programming & Frameworks
+  <p>
+    <img src="https://skillicons.dev/icons?i=python,java,js,nodejs&theme=dark" />
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=1a1a1a" alt="FastAPI"/>
+    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white&labelColor=1a1a1a" alt="Spring Boot"/>
+    <img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" />
+  </p>
+
 </div>
 
 ---
 
-<!-- Featured ML Projects -->
-<h2 align="center">🚀 Featured ML Projects</h2>
+<!-- Featured Projects -->
+<h2 align="center">🚀 Featured Projects</h2>
 
 <div align="center">
 
-### 🎯 Customer Churn Prediction with Production MLOps Pipeline
+---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
+### 🏢 Enterprise Financial Multi-Agent System — FMCG Sector
 
-<div align="left" style="max-width: 800px; margin: auto;">
+<div align="left" style="max-width: 860px; margin: auto;">
 
-**🔍 Project Overview:**  
-End-to-end machine learning project predicting customer churn with a **production-ready MLOps pipeline**.
+> *Co-developed @ Devlagom for Papercube — migrating legacy PowerBI into AI-automated workflows for leading Sri Lankan FMCG brands*
 
-**🛠️ Tech Stack & MLOps Tools:**
-- **ML Framework:** Scikit-learn, XGBoost, Deep Learning models
-- **Pipeline Orchestration:** Apache Airflow - Automated workflow scheduling and monitoring
-- **Experiment Tracking:** MLflow - Model versioning, parameter tracking, and artifact management
-- **Data Processing:** PySpark - Distributed data preprocessing for large-scale datasets
-- **Message Streaming:** Apache Kafka - Real-time data ingestion and processing
-- **Containerization:** Docker - Reproducible environments and deployment
-- **Model Monitoring:** Custom monitoring dashboard for performance tracking
+**🛠️ Stack:** `LangGraph` · `Databricks Genie API` · `AWS` · `ETL Pipelines`
 
-**✨ Key Features:**
-- ✅ Automated feature engineering and selection pipeline
-- ✅ Hyperparameter optimization with cross-validation
-- ✅ Model versioning and experiment tracking with MLflow
-- ✅ Containerized deployment with Docker
-- ✅ Scheduled retraining workflows with Airflow
-- ✅ Real-time prediction serving
-- ✅ Performance monitoring and alerting
-
-**📊 Impact:**  
-Achieved **70+% accuracy** with production-grade infrastructure enabling continuous model improvement and deployment.
+**✨ Key Highlights:**
+- ✅ Built an ETL pipeline ingesting high-volume financial & KPI data into Databricks
+- ✅ Powered conversational Q&A agents and structured "What, Why, How" report generation via Databricks Genie APIs
+- ✅ Architected secure backend communication with enterprise-grade data governance & privacy controls on AWS
 
 </div>
 
 ---
 
-### 📚 MLOps Zoomcamp - Certified
+### 🏥 Multi-Agentic Voice AI System — Nawaloka Hospital
 
-<div align="left" style="max-width: 800px; margin: auto;">
+<div align="left" style="max-width: 860px; margin: auto;">
 
-**🎓 Comprehensive MLOps Training:**  
-Completed intensive MLOps bootcamp covering:
-- ML experiment tracking and model registry
-- Workflow orchestration and ML pipelines
-- Model deployment strategies (batch, real-time, streaming)
-- Model monitoring and observability
-- Best practices for ML in production
+> *Voice-driven multi-agent platform to automate healthcare CRM operations and patient inquiries*
+
+**🛠️ Stack:** `LangGraph` · `FastAPI` · `React.js` · `Supabase + pgvector` · `Qdrant` · `LiveKit` · `Deepgram STT` · `ElevenLabs TTS` · `Docker` · `MCP`
+
+**✨ Key Highlights:**
+- ✅ Full text-path built on FastAPI & React.js with 4-tier memory system (Supabase + pgvector)
+- ✅ Custom MCP servers and Qdrant-backed CAG FAQ cache secured by Llama guardrails
+- ✅ Real-time voice pipeline via LiveKit, Deepgram STT & ElevenLabs TTS in containerized Docker microservices
+
+</div>
+
+---
+
+### 📊 MediCore Analytics — AI-Driven Hospital CRM Analytics System
+
+<div align="left" style="max-width: 860px; margin: auto;">
+
+> *End-to-end natural language querying platform over hospital relational databases*
+
+**🛠️ Stack:** `LangGraph` · `FastAPI` · `PostgreSQL (Supabase)` · `Plotly` · `Langfuse`
+
+**✨ Key Highlights:**
+- ✅ Orchestrated multi-agent workflow: intent router → NL2SQL agent (read-only safety) → answer synthesizer
+- ✅ Dynamic KPI dashboards with Plotly; advanced LLM observability via Langfuse runtime tracing
+
+</div>
+
+---
+
+### 🧬 Fine-Tuning LLM for Medical Specialist
+
+<div align="left" style="max-width: 860px; margin: auto;">
+
+> *Specialized Medical AI model fine-tuned for low-memory hardware deployment*
+
+**🛠️ Stack:** `QLoRA` · `GGUF` · `NVIDIA T4` · `Custom Safety Guardrails`
+
+**✨ Key Highlights:**
+- ✅ Fine-tuned on NVIDIA T4 (low-memory) without accuracy loss via QLoRA
+- ✅ End-to-end pipeline to export in GGUF format for local deployment with custom safety guardrails
+
+</div>
+
+---
+
+### 🏦 Customer Churn Prediction System — Banking
+
+<div align="left" style="max-width: 860px; margin: auto;">
+
+> *Production-grade ML pipeline for bank customer churn prediction*
+
+**🛠️ Stack:** `XGBoost` · `Apache Airflow` · `Apache Kafka` · `PySpark` · `Flask` · `Docker` · `MLflow` · `AWS`
+
+**✨ Key Highlights:**
+- ✅ **80%+ prediction accuracy** via feature engineering & hyperparameter tuning
+- ✅ Orchestrated real-time & batch data workflows; production deployed on AWS with full experiment tracking
+
+</div>
+
+---
+
+### 🫘 Kidney Disease Classification — Deep Learning & MLOps
+
+<div align="left" style="max-width: 860px; margin: auto;">
+
+> *Deep learning pipeline for kidney tumor detection from CT scan images*
+
+**🛠️ Stack:** `VGG16` · `TensorFlow` · `DVC` · `MLflow` · `Docker`
+
+**✨ Key Highlights:**
+- ✅ VGG16-powered CT scan tumor detection with full MLOps integration (DVC + MLflow)
+- ✅ Containerized architecture designed to transition seamlessly from CPU POC → GPU-accelerated deployment
 
 </div>
 
@@ -142,7 +224,7 @@ Completed intensive MLOps bootcamp covering:
 
 ---
 
-<!-- GitHub Stats with Better Layout -->
+<!-- GitHub Stats -->
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
@@ -164,30 +246,71 @@ Completed intensive MLOps bootcamp covering:
 
 ---
 
-<!-- Connect Section with Enhanced Icons -->
+<!-- Certifications -->
+<h2 align="center">🏅 Certifications</h2>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Oracle-OCI%202025%20AI%20Foundations%20Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=1a1a1a" alt="Oracle OCI"/>
+  <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate%202026-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=1a1a1a" alt="AWS SAA"/>
+  <img src="https://img.shields.io/badge/Astronomer-Apache%20Airflow%203%20Fundamentals-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white&labelColor=1a1a1a" alt="Airflow"/>
+  <img src="https://img.shields.io/badge/Postman-API%20Fundamentals%20Student%20Expert-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=1a1a1a" alt="Postman"/>
+</div>
+
+---
+
+<!-- Achievements -->
+<h2 align="center">🏆 Achievements</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">🥇</td>
+      <td><b>Winner — ZuuCrew AI Hackathon (Nov 2025)</b><br/>Developed an ML-based social media trends prediction system using feature engineering & classification models</td>
+    </tr>
+    <tr>
+      <td align="center">🎓</td>
+      <td><b>Distinction — Higher Diploma, Cardiff Metropolitan University</b><br/>BSc (Hons) Software Engineering via ICBT Campus, Sri Lanka</td>
+    </tr>
+    <tr>
+      <td align="center">✍️</td>
+      <td><b>10+ Technical Articles</b> on AI/ML published at Zuu Crew, reaching a growing practitioner community</td>
+    </tr>
+    <tr>
+      <td align="center">🎥</td>
+      <td><b>20+ Free Educational Tutorials</b> on YouTube covering Software Engineering, AI/ML, and study methodologies</td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<!-- Connect Section -->
 <h2 align="center">🌐 Let's Connect & Collaborate!</h2>
 <div align="center">
-  <a href="https://fb.com/dinod imanjith" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" alt="Facebook"/>
+  <a href="https://linkedin.com/in/dinod-imanjith" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
   </a>
   <a href="https://www.youtube.com/@CodeSageLK" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000" alt="YouTube"/>
   </a>
-  <a href="https://linkedin.com/in/dinod-imanjith" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
+  <a href="mailto:dinodimanjith404@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email"/>
+  </a>
+  <a href="https://fb.com/dinodimanjith" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" alt="Facebook"/>
   </a>
 </div>
 
 ---
 
-<!-- Fun Zone with Better Animation -->
+<!-- Fun Zone -->
 <h2 align="center">✨ Fun Zone</h2>
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" style="border-radius: 10px;"/>
   
   <br/><br/>
   
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=In%20the%20age%20of%20AI,%20the%20question%20is%20not%20whether%20machines%20can%20think,%20but%20whether%20humans%20can%20build%20them%20right.&author=Anonymous" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Build%20agents%20that%20think,%20systems%20that%20scale,%20and%20pipelines%20that%20never%20sleep.&author=Dinod%20Imanjith" />
 </div>
 
 ---
@@ -205,8 +328,8 @@ Completed intensive MLOps bootcamp covering:
 <!-- Support Section -->
 <div align="center">
   <h3>💝 Support My Work</h3>
-  <p>If you find my ML projects and contributions helpful, consider giving them a ⭐!</p>
-  <img src="https://img.shields.io/badge/Made%20with-❤️%20%26%20AI-red?style=for-the-badge&labelColor=1a1a1a"/>
+  <p>If you find my AI/ML projects helpful, consider giving them a ⭐!</p>
+  <img src="https://img.shields.io/badge/Made%20with-❤️%20%26%20Agentic%20AI-red?style=for-the-badge&labelColor=1a1a1a"/>
   <img src="https://img.shields.io/badge/From-Sri%20Lanka%20🇱🇰-green?style=for-the-badge&labelColor=1a1a1a"/>
-  <img src="https://img.shields.io/badge/Always-Learning%20%26%20Building-blue?style=for-the-badge&labelColor=1a1a1a"/>
+  <img src="https://img.shields.io/badge/Always-Building%20Intelligent%20Systems-blue?style=for-the-badge&labelColor=1a1a1a"/>
 </div>
